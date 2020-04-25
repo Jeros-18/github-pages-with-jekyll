@@ -1,13 +1,13 @@
 ---
-title: "落九霜的博客"
+title: "嘿嘿嘿的博客"
 date: 2020-04-25
 ---
 
-title: 落九霜的博客
-author: 落九霜
+title: 嘿嘿嘿的博客
+author: 嘿嘿嘿
 email:1474352803@qq.com
 description: > # this means to ignore newlines until "baseurl:"
- 这是落九霜博客的首页
+ 这是嘿嘿嘿博客的首页
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  Jeros-18 # DO NOT include the @ character, or else the build will fail!
